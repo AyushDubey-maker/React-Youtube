@@ -1,0 +1,21 @@
+.recommendVideos{
+    flex: 0.8;
+    background-color: #f9f9f9f9;
+    padding: 40px 20px;
+    padding-bottom: 0;
+}
+.recommendVideos > h2{
+    margin-left: 5px;
+    margin-bottom: 20px;
+}
+.recommendVideos_videos{
+    display: flex;
+    flex-wrap: wrap;
+}
+.recommendVideos_videos > a{
+    text-decoration: none;
+    color: inherit;
+}
+.recommended_videos_signout_content>h2{
+font-weight: 600;
+}

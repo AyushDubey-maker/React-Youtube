@@ -1,0 +1,60 @@
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px;
+    position: sticky;
+    top: 0;
+    z-index: 100;
+    background-color: white;
+}
+.header_logo{
+   height: 25px;
+  object-fit: contain;
+    margin-left: 20px;
+
+}
+.header_input{
+    display: flex;
+    align-items: center;
+    width: 40%;
+    border: 1px solid lightgray;
+}
+.header_right{
+    display: flex;
+    align-items: center;
+}
+.header_input > input{
+    flex: 1;
+    border: none;
+    
+}
+.header_searchIcon{
+    width: 50px !important;
+    background-color: #fafafa !important;
+    border-left: 1px solid lightgray;
+    color: gray;
+    cursor: pointer;
+
+}
+.profile_pic_header{
+    margin-bottom: 5px;
+    font-weight: 400;
+    margin-top: 5px;
+}
+.header_icon{
+    margin-right:15px;
+}
+.avatar_logo{
+    cursor: pointer !important;
+}
+.app__signUp{
+    display: flex;
+    flex-direction: column ;
+   
+  }
+ .user_displayName{
+     margin-top: 10px;
+     margin-bottom: 10px;
+     font-weight: 400;
+ }
