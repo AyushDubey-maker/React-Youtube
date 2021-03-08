@@ -21,11 +21,11 @@ This is a frontend clone of Youtube built using ReactJs and Firebase for user au
 
 ### `npm install:`
 
-    "@material-ui/core": "^4.11.3",
-    "@material-ui/icons": "^4.11.2",
+    "@material-ui/core": "^4.11.3"
+    "@material-ui/icons": "^4.11.2"
    
-    "firebase": "^8.2.4",
-    "react": "^17.0.1",
-    "react-dom": "^17.0.1",
-    "react-google-button": "^0.7.2",
-    "react-router-dom": "^5.2.0",
+    "firebase": "^8.2.4"
+    "react": "^17.0.1"
+    "react-dom": "^17.0.1"
+    "react-google-button": "^0.7.2"
+    "react-router-dom": "^5.2.0"
